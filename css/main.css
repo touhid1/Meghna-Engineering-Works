@@ -544,21 +544,18 @@ img{
 }
 .footer-div3 .social-icons{
   margin: 1rem 0;
-  padding-left: 20px;
 }
 .footer-div3 .social-icons li{
   background:var(--dodgerBlue);
   margin: 0.3rem;
   border-radius: 50%;
   width: 45px;
-  padding-left: 20px;
   height: 45px;
   transition: var(--transition);
 }
 .footer-div3 .social-icons li:hover{
   background: var(--midBlue);
   color: #fff;
-  padding-left: 20px;
 }
 .footer-div4 input{
   width: 100%;
@@ -578,7 +575,6 @@ img{
   font-size: 1rem;
   transition: var(--transition);
   cursor: pointer;
-  padding-left: 20px;
 }
 .footer-div4 button:hover{
   background: var(--midBlue);
